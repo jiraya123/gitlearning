@@ -21,6 +21,6 @@ signed main()
     	cout<<i<<endl;
     }
     cout<<"for loop done";
-    cout<<"what";
+    cout<<"new dev";
   
 }
